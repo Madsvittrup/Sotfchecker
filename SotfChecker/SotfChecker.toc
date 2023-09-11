@@ -1,0 +1,12 @@
+## Title: SotF tracker
+## Interface: 100005
+## Notes: Lets you set a value for SoTF to track empowered hots in /lbg
+## Author: Gismodruid / Clicket
+## Version: v10.1.12
+## X-Curse-Project-ID:
+## X-WoWI-ID:
+## X-Wago-ID: 
+## SavedVariables: LifebloomGlowDB
+
+Options.lua
+SotfChecker.lua
